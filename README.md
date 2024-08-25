@@ -12,8 +12,8 @@ This project showcases proficiency in modern web technologies and a commitment t
 
 
 **Steps to run the code**
-1. Install all the dependencies using the command [npm install] in terminal.
-2. Then use command [npm run dev] in terminal to run the app in localhost.
+1. Install all the dependencies using the command *npm install* in terminal.
+2. Then use command *npm run dev* in terminal to run the app in localhost.
 
 Deployed link - https://messenger-application.netlify.app/
 
